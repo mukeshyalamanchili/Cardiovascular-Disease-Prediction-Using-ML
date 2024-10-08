@@ -1,1 +1,2 @@
 # Cardiovascular-Disease-Prediction-Using-ML
+This project aims to predict cardiovascular disease risk using advanced machine learning techniques. By analyzing a dataset that includes metrics like body mass index (BMI), glucose levels, physical activity, and dietary habits, we seek to identify key risk factors. The goal is to enhance the accuracy of risk assessments and support better decision-making in clinical settings, ultimately improving patient outcomes in cardiovascular care.
